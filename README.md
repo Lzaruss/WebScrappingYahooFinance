@@ -4,3 +4,7 @@ This code is a Python script that scrapes financial data for a number of compani
 # EXAMPLE
 
 https://user-images.githubusercontent.com/104428151/208219878-ce8c7718-604f-457d-aed5-287d922fd46d.mp4
+
+This is a screenshot of the script output
+
+![wb](https://user-images.githubusercontent.com/104428151/209970854-62aff379-3174-4653-a988-ab67b1c0db9e.JPG)
